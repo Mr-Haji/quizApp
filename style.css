@@ -1,0 +1,21 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: linear-gradient(#2bb8f081 ,#05b8c580, #2bb8f081, #05b8c580);
+}
+
+.customClass{
+    max-width: 400px;
+    min-width: 400px;
+    height: 530px;
+    
+}
+
+.hidden{
+    display: none;
+}
+
+.fixHeight{
+    height: 50px;
+}
